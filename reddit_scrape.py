@@ -37,7 +37,7 @@ for submission in subreddit.search("NASDAQ", limit=10):
 
 
 # Search for posts with the keyword "NASDAQ"
-posts = subreddit.search("NASDAQ", limit=20)
+posts = subreddit.search("NASDAQ", limit=1000)
 
 
 # File path to save the results
