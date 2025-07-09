@@ -1,0 +1,2 @@
+.venv/
+echo "analyst_ratings_processed.csv" >> .gitignore
