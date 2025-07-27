@@ -18,6 +18,14 @@ This project forecasts daily directional movements (up/down) in the NASDAQ index
 
 ---
 
+## Results
+- The final model (Random Forest Classifier) achieved ~63% directional accuracy on the test set.
+- Sentiment scores from Reddit posts (via SpaCyTextBlob) showed weak but consistent correlation with market movements, supporting the hypothesis that public sentiment influences short-term volatility.
+- TimeSeriesSplit cross-validation helped maintain temporal integrity, avoiding lookahead bias.
+- Feature importance analysis revealed that price momentum features (like moving averages) contributed more to predictive power than sentiment scores alone.
+
+---
+
 ## Project Setup
 ### 1. **Create a Virtual Environment**  
 From your project root directory:
