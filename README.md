@@ -43,7 +43,7 @@ By integrating financial and social media data, this project explores how online
 
 ## Results
 
-- The best-performing model achieved approximately **63% accuracy** in predicting daily direction.
+- The best-performing model achieved approximately **52% accuracy** in predicting daily direction.
 - Sentiment polarity scores showed a **weak but consistent correlation** with market direction.
 - Price momentum features (e.g., 3-day and 7-day moving averages) had the highest predictive importance.
 - Reddit sentiment did not drastically improve prediction performance but added valuable signal in certain periods.
