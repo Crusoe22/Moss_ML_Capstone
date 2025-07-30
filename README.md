@@ -46,13 +46,17 @@ By integrating financial and social media data, this project explores how online
 - The best-performing model achieved approximately **52% accuracy** in predicting daily direction.
 - Sentiment polarity scores showed a **weak but consistent correlation** with market direction.
 - Price momentum features (e.g., 3-day and 7-day moving averages) had the highest predictive importance.
-- Reddit sentiment did not drastically improve prediction performance but added valuable signal in certain periods.
+- Reddit sentiment did not significantly enhance prediction accuracy but shows potential as a supplementary predictor in future research.
 - Visualizations supported model interpretability and highlighted temporal trends in sentiment and market behavior.
 
-![App Screenshot](TimeSeriesSplit 1.png)
-![App Screenshot](TimeSeriesSplit 2.png)
-![App 2 ](TimeSeriesSplit 3.png)
-
+![App Screenshot](TimeSeriesSplit_1.png)
+Random Forest Classifier Performance Across TimeSeriesSplit Folds: Initial Model Predictors.
+![App Screenshot](TimeSeriesSplit_2.png)
+Random Forest Classifier Performance Across TimeSeriesSplit Folds: New
+Predictors.
+![App 2 ](TimeSeriesSplit_3.png)
+ Random Forest Classifier Performance Across TimeSeriesSplit Folds: Set
+Threshold of .6.
 ---
 
 ## Limitations and Future Work
