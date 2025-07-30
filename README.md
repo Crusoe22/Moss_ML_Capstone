@@ -50,13 +50,22 @@ By integrating financial and social media data, this project explores how online
 - Visualizations supported model interpretability and highlighted temporal trends in sentiment and market behavior.
 
 ![App Screenshot](TimeSeriesSplit_1.png)
+
 Random Forest Classifier Performance Across TimeSeriesSplit Folds: Initial Model Predictors.
+
+
 ![App Screenshot](TimeSeriesSplit_2.png)
+
 Random Forest Classifier Performance Across TimeSeriesSplit Folds: New
 Predictors.
+
+
 ![App 2 ](TimeSeriesSplit_3.png)
+
  Random Forest Classifier Performance Across TimeSeriesSplit Folds: Set
 Threshold of .6.
+
+
 ---
 
 ## Limitations and Future Work
