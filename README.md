@@ -49,6 +49,10 @@ By integrating financial and social media data, this project explores how online
 - Reddit sentiment did not drastically improve prediction performance but added valuable signal in certain periods.
 - Visualizations supported model interpretability and highlighted temporal trends in sentiment and market behavior.
 
+![App Screenshot](TimeSeriesSplit 1.png)
+![App Screenshot](TimeSeriesSplit 2.png)
+![App 2 ](TimeSeriesSplit 3.png)
+
 ---
 
 ## Limitations and Future Work
